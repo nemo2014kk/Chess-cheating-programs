@@ -77,7 +77,8 @@ Ps:這是“象棋巫師”源碼https://github.com/liangqi/xqwizard/tree/master
 VB6是 Visual Studio 98 的一个组件，安装 Visual Studio 98 后，"XQWIZARD.VBP"即被关联为VB6的工程文件。双击VBP文件即可进入VB6的集成开发环境，执行VBP文件右键菜单中的Make，即可编译成象棋巫师执行程序(XQWIZARD.EXE)了。"
 
 
-![未命名](https://user-images.githubusercontent.com/121267030/210293988-7d331491-aea3-4d31-bc30-95b480feff46.png)
+![未命名](https://user-images.githubusercontent.com/121267030/210295665-ec726d86-d9c9-4acc-b0ad-974b0b8a1399.png)
+
 
 
 
