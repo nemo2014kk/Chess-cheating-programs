@@ -137,4 +137,5 @@ It is said that:
 Chess Wizard was developed with Visual Basic 6.0.
 VB6 is a component of Visual Studio 98. After installing Visual Studio 98, "XQWIZARD.VBP" is associated as the project file of VB6. Double-click the VBP file to enter the VB6 integrated development environment, execute Make in the right-click menu of the VBP file, and then compile it into a chess wizard execution program (XQWIZARD.EXE). "
 
+![未命名 - 複製](https://user-images.githubusercontent.com/121267030/210297018-8c29b374-a268-4320-8277-02be1608c262.png)
 
